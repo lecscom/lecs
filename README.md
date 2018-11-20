@@ -10,4 +10,5 @@ https://lecscom.github.io/lecs/
 
 # Outside Code
 CSS Reset: Normalize https://necolas.github.io/normalize.css/ </br>
+Main Font: https://fonts.google.com/specimen/Raleway </br>
 Icons: Font Awesome: https://fontawesome.com/ </br>
